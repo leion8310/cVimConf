@@ -4,3 +4,8 @@ map <C-j> 4j
 map <C-k> 4k
 map <C-o> H
 map <C-i> L
+set smoothscroll
+set incsearch
+set smartcase
+set showtabindices
+let scrollduration=100
