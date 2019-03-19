@@ -1,0 +1,6 @@
+map <C-d> scrollPageDown
+map <C-u> scrollPageUp
+map <C-j> 4j
+map <C-k> 4k
+map <C-o> H
+map <C-i> L
