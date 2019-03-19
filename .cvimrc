@@ -8,4 +8,4 @@ set smoothscroll
 set incsearch
 set smartcase
 set showtabindices
-let scrollduration=100
+let scrollduration=400
